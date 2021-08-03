@@ -49,4 +49,4 @@ class reloj:
        
 
 reloj = reloj()
-reloj.solution('00:00:00', '00:00:00')
+reloj.solution('00:00:12', '00:00:59')
